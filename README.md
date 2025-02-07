@@ -19,12 +19,12 @@
   ---
 
 ### :man_technologist: About Me :
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ireland.
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  I am a Junior Web Developer - Front End Focused currently <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ireland.
+  - :telescope: I’m working as a Software Engineer and contributing to frontend on various web applications.
 
 - :seedling: Exploring new and unique web designs.
 
-- :zap: In my free time, I complete udemy courses around web development and program small projects.
+- :zap: I am currently following the Odin Project to gain stronger foundations and industry practice and Advancing my Knowledge in Algorithms via Khan Academy. 
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Roger-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/roger-o-donnell/)
 </div>
